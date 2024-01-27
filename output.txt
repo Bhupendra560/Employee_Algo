@@ -1,0 +1,7 @@
+7 days Consecutive Emp_names :-
+ ['Sparks, KeWWeMh', 'SiWgh, JaspreeM', 'CEreira Jr, JEse', 'GAeWdia, JAaW CarXEs']
+
+Employees which have less than 10 hours of time between shifts but greater than 1 hour :-
+ {'DeXgadiXXE REdarMe, ChrisMiaW S', 'HaCiXMEW, DeaWMe DevEW', 'CEreira Jr, JEse', 'REdrigAez, GraWdEW AWgeX', 'De Xa Cerda, IgWaciE', 'CaMaXaWE, CeghaW', 'SaWchez, ArWAXfE', 'MraW, WiXXiaC Ha', 'Xee, XaCar'}
+
+Employees whose shift time difference more 14 hours :  ['DeXgadiXXE REdarMe, ChrisMiaW S']
